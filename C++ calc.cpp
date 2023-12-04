@@ -3,8 +3,7 @@
 using namespace std;
 
 int add() {
-	int add1;
-	int add2;
+	int add1, add2;
 	cout << "Enter first number to add\n";
 	cin >> add1;
 	cout << "Enter second number to add\n";
